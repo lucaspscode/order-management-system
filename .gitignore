@@ -1,0 +1,21 @@
+# Java / Maven / Gradle
+target/
+*.class
+*.jar
+*.war
+.mvn/
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+*.xml~
+
+# Docker
+.env
+
+# OS
+.DS_Store
+Thumbs.db
